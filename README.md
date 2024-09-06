@@ -1,8 +1,8 @@
 # demo
 to learn.
 
-# Student
+# Delta Student
 Gourav Gupta 
 
-# Teacher
-shradha didi
+# Delta Teacher
+shradha didi teacher.
